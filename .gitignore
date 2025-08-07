@@ -1,0 +1,5 @@
+e_commerce_chatbot.egg-info
+logs
+src/__pycache__
+venv
+.env
